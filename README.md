@@ -15,9 +15,11 @@ Model 2
 Branched model that outputs different labels
 
 ![Screenshot](model2.png)
+- Model
 
-Loss Summary
-![Screenshot](multi_loss.png)
+![Screenshot](multi_losses.png)
+- Loss Summary
 
-Accuracy Summary
 ![Screenshot](multi_acc.png)
+- Accuracy Summary
+
