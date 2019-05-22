@@ -8,7 +8,7 @@ import os
 
 # set up for search api
 
-api_key = "1233860af15547e8a1bc91e9bbf68cbb"
+api_key = ""
 max_results = 500
 group_size = 50
 
