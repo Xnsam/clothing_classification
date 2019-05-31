@@ -6,10 +6,10 @@ Reference research paper : https://arxiv.org/pdf/1409.1556/
 
 Model 1
 ------------------------
-![Screenshot](model1.png)
+<img src="model_1.png" alt="alt text" width="500" >
 - Model
 
-![Screenshot](training.png)
+<img src="training.png" alt="alt text" width="500" >
 - Loss Summary
 Training results are pretty okay, but can do better with more data and tuning.
 
@@ -17,13 +17,11 @@ Model 2
 --------------------------
 Branched model that outputs different labels
 
-![Screenshot](model2.png)
+<img src="model2.png" alt="alt text" width="500" >
 - Model
 
-![Screenshot](multi_losses.png)
+<img src="multi_losses.png" alt="alt text" width="500" >
 - Loss Summary
 
-![Screenshot](multi_acc.png)
+<img src="multi_acc.png" alt="alt text" width="500" >
 - Accuracy Summary
-
-Model can be improved.
