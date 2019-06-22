@@ -6,7 +6,7 @@ Reference research paper : https://arxiv.org/pdf/1409.1556/
 
 Model 1
 ------------------------
-<img src="model_1.png" alt="alt text" width="500" >
+<img src="model1.png" alt="alt text" width="500" >
 - Model
 
 <img src="training.png" alt="alt text" width="500" >
